@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm a Junior Frontend Developer, learning since 2023. Passionate about creating user-friendly web experiences and eager to contribute to exciting projects! ☘️</div>  
+### <div align="center">I'm a Frontend Developer. Passionate about creating user-friendly web experiences and eager to contribute to exciting projects! ☘️</div>  
   
 
 <div align="center">  
