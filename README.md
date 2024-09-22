@@ -31,6 +31,9 @@
   <a href="mailto:gdhald4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/alexey-ovchnnikov-952aa02bb/" target="_blank">
+    <img src="https://i.pinimg.com/736x/09/1c/82/091c82bd12b03b7d5529a49a0b400c71.jpg" alt="linkedin"/>
+  </a>
 </div>
 
 ---
