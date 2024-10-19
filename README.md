@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif; color: #333;">
-  <h2 style="font-size: 2.5em; margin-bottom: 0.5em; color: #007ACC;">I'm a Backend Developer specializing in Go</h2>
-  <p style="font-size: 1.2em; line-height: 1.5; max-width: 600px;">
+  <h2 style="font-size: 5em; margin-bottom: 0.5em; color: #007ACC;">I'm a Backend Developer specializing in Go</h2>
+  <p style="font-size: 4em; line-height: 1.5; max-width: 600px;" >
     Passionate about building robust and scalable server-side applications, optimizing performance, and tackling complex challenges. 
     Eager to contribute to innovative projects and enhance system efficiency! 🌟
   </p>
