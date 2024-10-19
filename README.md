@@ -19,12 +19,6 @@
   <a href="https://nodejs.org/" target="_blank" style="margin: 0 10px;">
     <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"  height="80"" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin: 0 10px;">
-    <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="80" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" style="margin: 0 10px;">
-    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="80" />
-  </a>
   <a href="https://golang.org/" target="_blank" style="margin: 0 10px;">
     <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go"  height="80" />
   </a>
