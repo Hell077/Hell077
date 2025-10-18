@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1 style="font-size: 3.5em; color: #00BFFF; font-weight: bold; margin-bottom: 0.3em;">
-    🚀 Backend Developer | Go Enthusiast
+    🚀 Backend Go Developer | Enthusiast
   </h1>
 
   <p style="font-size: 1.42em; max-width: 700px; line-height: 1.6; color: #E0E0E0;">
