@@ -41,7 +41,6 @@
 
 ## GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hell077&theme=radical&hide_border=true" height="180px"/>
   <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hell077&theme=redical" height="200px"/>
     <br/>
