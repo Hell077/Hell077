@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1 style="font-size: 3.5em; color: #00BFFF; font-weight: bold; margin-bottom: 0.3em;">
-    🚀 Backend Go Developer | Enthusiast
+    Backend Go Developer | Enthusiast
   </h1>
 
   <p style="font-size: 1.42em; max-width: 700px; line-height: 1.6; color: #E0E0E0;">
@@ -11,7 +11,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
   <a href="https://golang.org/" target="_blank" style="margin: 0 25px;">
     <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="80" />
@@ -39,7 +39,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hell077&theme=radical&hide_border=true" height="180px"/>
   <br/>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <div align="center">
   <a href="mailto:alexey.ovchinnikov.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
