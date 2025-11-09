@@ -6,7 +6,7 @@
 
   <p style="font-size: 1.42em; max-width: 700px; line-height: 1.6; color: #E0E0E0;">
     Passionate about high-load systems, microservices, real-time data processing, and API design.  
-    I love optimizing performance, architecting scalable solutions, and working with distributed systems. ⚡  
+    I love optimizing performance, architecting scalable solutions, and working with distributed systems.  
   </p>
 
 </div>
