@@ -41,13 +41,9 @@
 
 ## GitHub Stats
 <div align="center">
-  <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hell077&theme=redical" height="200px"/>
     <br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hell077&theme=radical" height="200px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hell077&show_icons=true&count_private=true&hide_border=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell077&hide_border=true&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ---
