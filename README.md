@@ -53,7 +53,7 @@
   <a href="mailto:alexey.ovchinnikov.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/alexey-ovchnnikov-952aa02bb/">
+  <a href="https://www.linkedin.com/in/alexey-ovchinnikov-169555398/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
 </div>
